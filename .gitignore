@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.zip
+*.skill
+.skill-trigger-results/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
