@@ -57,3 +57,9 @@ Or copy a single skill into `~/.grok/skills/<name>/`.
 4. Refresh the source in StackFerry.
 
 Keep secrets, tokens, and machine-specific paths out of this repository.
+
+## Skills
+
+| Skill | Purpose |
+| --- | --- |
+| [`context-handoff`](./skills/context-handoff/) | At ~70% context, classify workspace scripts/files/docs and write `HANDOFF.md` before auto-compact. |

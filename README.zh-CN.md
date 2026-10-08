@@ -57,3 +57,9 @@ paths = ["C:/projects/agent-skills/skills"]
 4. 在 StackFerry 里刷新这个源。
 
 不要把密钥、token、本机私有路径写进这个仓库。
+
+## Skill 列表
+
+| Skill | 用途 |
+| --- | --- |
+| [`context-handoff`](./skills/context-handoff/) | 上下文约 70% 时，把工作区脚本/文件/文档分好类，写好 `HANDOFF.md`，给自动压缩做交接。 |
